@@ -1,0 +1,35 @@
+title: "Public Viewing Locations in Austria – FIFA World Cup 2026"
+description: "This dataset lists 55 public viewing locations across Austria for the FIFA World Cup 2026, including coordinates, access information, and venue attributes. It was compiled manually from official regional and venue sources to support fans in finding suitable locations to watch World Cup matches. The dataset was created in the context of a university course at the University of Vienna under the supervision of Janowicz Krzysztof."
+creator:
+  - "Alexander Filipsky"
+  - "Oliver Poloha"
+  - "Paul Vitovec"
+created: "2026-06-16"
+version: "1.0"
+license: "CC-BY 4.0"
+spatial_coverage: "Austria"
+temporal_coverage: "June 2026"
+data_format: "CSV (UTF-8, comma-separated)"
+attributes:
+  - ID: "Unique identifier for each entry (integer)"
+  - NAME: "Name of the public viewing location (string)"
+  - LAT: "Latitude in decimal degrees (float)"
+  - LON: "Longitude in decimal degrees (float)"
+  - BUNDESLAND: "Austrian federal state (string)"
+  - ADDRESS: "Postal address of the venue (string)"
+  - LINK: "Reference website or event page (string)"
+  - FREE/FEE: "Indicates if the event is free or requires an entry fee (categorical: FREE / NOT FREE / UNKNOWN)"
+  - LOCATION TYPE: "Type of venue (e.g., bar, public space, restaurant, event venue, other)"
+  - INDOOR/OUTDOOR: "Specifies whether the viewing is inside or outside (categorical)"
+  - ALL AUSTRIAN GROUPEMATCHES: "Yes/No/Unknown – whether all Austria group matches are shown at this venue"
+sources:
+  - "WKO Tourism & Leisure (Vienna and provincial directories)"
+  - "Regional tourism/event websites (Vorarlberg, Tirol, Steiermark, Wien, etc.)"
+  - "Official venue or event pages"
+collection_method: "Manual web compilation and verification of publicly announced viewing locations. Data gathered by cross-referencing official event pages and regional listings."
+update_frequency: "Static dataset – compiled for FIFA World Cup 2026"
+contact: "a12114767@unet.univie.ac.at"
+legal_ethical_notice: |
+  All data were collected from publicly available event listings and venue websites. The dataset contains no personal data or copyrighted material. Use of URLs follows fair use guidelines for citation of publicly accessible content. Attribution is provided in the metadata. The dataset is published under the CC BY 4.0 license allowing reuse with credit to the creators.
+maintenance_plan: |
+  The dataset will remain available as a versioned open release (v1.0) on the publication platform. Updates are currently not planned but may be carried out if needed, for example in response to new public viewing initiatives or corrections. Backup copies will remain stored in the project's GitHub repository.

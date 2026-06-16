@@ -1,0 +1,56 @@
+﻿ID,NAME,LAT,LON,BUNDESLAND,ADRESS,LINK,FREE/FEE,LOCATION TYPE,INDOOR/OUTDOOR,ALL AUSTRIAN GROUPEMATCHES
+1,Brot & Spiele,47.0733,15.4331,STEIERMARK,"Mariahilferstraße 17, 8020 Graz",https://www.steiermark.com/de/Region-Graz/Urlaub-planen/Veranstaltungen/Public-Viewing-Fussball-WM_ed_87762356#event-detail-calendar-dates,FREE,BAR,INDOOR,YES
+2,SportsBar – Das Eggenberg & LONGIN GRAWE Klub 1909,47.0457,15.4557,STEIERMARK,"Stadionplatz 1, 8041 Graz",https://sksturm.at/n/wm-public-viewing,NOT FREE,BAR,INDOOR,NO
+3,Weber Grillcenter Graz,47.0069,15.4112,STEIERMARK,"Rudolf-Kratochwill-Straße 3, 8054 Seiersberg",https://www.steiermark.com/de/Region-Graz/Urlaub-planen/Veranstaltungen/Public-Viewing-Fussball-WM_ed_87762356#event-detail-calendar-dates,NOT FREE,RESTAURANT,INDOOR,NO
+4,San Pietro San Bar,47.0503,16.4800,STEIERMARK,"St. Peter Hauptstraße 141, 8042 Graz",https://www.facebook.com/events/st-peter-hauptstra%C3%9Fe-141-graz-%C3%B6sterreich/%EF%B8%8F-public-viewing-wm-2026-%EF%B8%8F-%C3%B6sterreich-vs-argentinien-/1273195818186598/,NOT FREE,BAR,INDOOR,NO
+5,Spannrahmen Hard,47.4864,9.6935,VORARLBERG,"Hofsteigstraße 107e, 6971 Hard",https://www.oeticket.com/eventseries/public-viewing-wm-2026-4128691/,NOT FREE,EVENT VENUE,INDOOR,YES
+6,Gösser Bräu,47.0671,15.4377,STEIERMARK,"Neutorgasse 48, 8010 Graz",https://www.steiermark.com/de/Region-Graz/Urlaub-planen/Veranstaltungen/Public-Viewing-Fussball-WM_ed_87640512,FREE,RESTAURANT,OUTDOOR,NO
+7,Marktplatz Dornbirn,47.4136,9.74231,VORARLBERG,"Marktstraße, 6850 Dornbirn",https://www.bodensee-vorarlberg.com/public-viewing-fussball-wm-2026,FREE,PUBLIC SPACE,OUTDOOR,NO
+8,Tante Kaethe,48.3163,14.2981,OBEROESTERREICH,"Strasserau 3, 4020 Linz",https://tante-kaethe.at/events/wm-public-viewing-2026/,FREE,RESTAURANT,OUTDOOR,YES
+9,Jozef Linz,48.3000,14.2913,OBEROESTERREICH,"Landstrasse 49, 4020 Linz",https://josef.eu/events/fussball-wm2026/,NOT FREE,RESTAURANT,INDOOR,YES
+10,Sandburg,48.3103,14.2920,OBEROESTERREICH,"Untere Donaulände 5, 4020 Linz",https://sandburg.publicviewings.at,NOT FREE,EVENT VENUE,OUTDOOR,YES
+11,Mehrzweckplatz Schwaz-Ost,47.3524,11.7149,TIROL,"Johannes-Messner-Weg 12, 6130 Schwaz",https://www.schwaz.at/kalender/event/public-viewing-aut-vs-arg-fussball-weltmeisterschaft-2026-06-22/,FREE,PUBLIC SPACE,OUTDOOR,NO
+12,TIROLER VERSICHERUNG,47.2658,11.3970,TIROL,"Wilhelm-Greil-Straße 10, 6020, Innsbruck",https://www.tiroler-versicherung.at/Meine-TIROLER/Mitgliedervorteile2/Mitgliedervorteile/Public-Viewing-Oesterreich-gegen-Argentinien,NOT FREE,OTHER,INDOOR,NO
+13,TIWAG Arena Innsbruck,47.2579,11.4106,TIROL,"Olympiastraße 11, 6020 Innsbruck",https://www.liferadio.tirol/gratis-wm-public-viewing-in-innsbruck/,FREE,EVENT VENUE,INDOOR,NO
+14,Salettl im Alten AKH,48.2157,16.3532,WIEN,"Alserstrasse 4/Hof 1, 1090 Wien",https://www.salettl.at/#faq,FREE,RESTAURANT,OUTDOOR,NO
+15,Charlie P's,48.2168,16.3597,WIEN,"Währinger Straße 3, 1090 Wien",https://www.charlieps.at/en/,FREE,BAR,INDOOR,NO
+16,FRANCIS,48.2062,16.3745,WIEN,"Weihburggasse 18-20/27, 1010 Wien",https://francis.at/de/wm26,FREE,RESTAURANT,OUTDOOR,NO
+17,Palais Freiluft,48.2078,16.3541,WIEN,"Trautsongasse 1b, 1080 Wien",https://www.freiluft.co.at/wmspecial,FREE,EVENT VENUE,OUTDOOR,NO
+18,Stadtboden,48.2040,16.3713,WIEN,"Krugerstraße 8, 1010 Wien",www.stadtboden.at ,NOT FREE,RESTAURANT,INDOOR,YES
+19,Cafe Votiv,48.2141,16.3590,WIEN,"Reichsratsstraße 17, 1010 Wien",https://cafe-votiv.at,NOT FREE,RESTAURANT,INDOOR,NO
+20,Rinderwahn Weihburggasse,48.2073,16.3724,WIEN,"Weihburggasse 3, 1010 Wien",https://www.rinderwahn.at,NOT FREE,RESTAURANT,INDOOR,NO
+21,Sparkys,48.2091,16.3711,WIEN,"Goldschmiedgasse 8, 1010 Wien",https://www.sparkys.at,NOT FREE,RESTAURANT,INDOOR,NO
+22,Crossfiled's Australian Pub,48.2044,16.3696,WIEN,"Maysedergasse 5, 1010 Wien",https://www.crossfield.at,NOT FREE,RESTAURANT,OUTDOOR,NO
+23,Cafe Konstantin ,48.2095,16.4064,WIEN,"Rotundenallee 15, 1020 Wien",https://www.cafekonstantin.at,NOT FREE,RESTAURANT,OUTDOOR,YES
+24,Vorstadtliebe,48.2254,16.4526,WIEN,"Stadlauer Str. 26, 1220 Wien",https://vorstadtliebe.at/,FREE,RESTAURANT,OUTDOOR,NO
+25,Hüttelbeach,48.1982,16.2622,WIEN,"Bahnhofstraße 28, 1140 Wien",http://huettelbeach.at/,FREE,BAR,INDOOR,NO
+26,Laudon 16,48.2135,16.3508,WIEN,"Laudongasse 16, 1080 Wien",http://www.laudon16.at/,NOT FREE,RESTAURANT,OUTDOOR,NO
+27,Salim's Cocktails - Cafe - Snacks,48.2021,16.3736,WIEN,"Mahlerstraße 12, 1010 Wien",https://www.salims.at,NOT FREE,BAR,INDOOR,NO
+28,Shebeen,48.2066,16.3491,WIEN,"Lerchenfelder Str. 45, 1070 Wien",https://www.shebeen.at/,FREE,BAR,OUTDOOR,NO
+29,Cocktailbar Meeru,48.2025,16.3540,WIEN,"Siebensterngasse 15, 1070 Wien",http://www.meeru.at/,FREE,BAR,OUTDOOR,NO
+30,Collina am Berg,48.2032,16.3554,WIEN,"Spittelberggasse 12, 1070 Wien",https://www.collina.wien/,FREE,RESTAURANT,OUTDOOR,NO
+31,Cafe Sperl,48.2000,16.3611,WIEN,"Gumpendorfer Str. 11, 1060 Wien",https://www.cafesperl.at/,FREE,RESTAURANT,INDOOR,NO
+32,Cafe Drechsler,48.1988,16.3624,WIEN,"Linke Wienzeile 22, 1060 Wien",http://www.drechsler-wien.at/,FREE,RESTAURANT,INDOOR,NO
+33,Down Under Aussie Pub,48.1946,16.3524,WIEN,"Magdalenenstraße 32, 1060 Wien",https://www.downunder.at,FREE,BAR,INDOOR,YES
+34,Restaurant Bar STEINDL,48.1957,16.3425,WIEN,"Stumpergasse 59, 1060 Wien",https://www.restaurant-steindl.at,NOT FREE,RESTAURANT,INDOOR,YES
+35,Stella am Naschmarkt,48.1987,16.3633,WIEN,"Naschmarkt 1, 1060 Wien",https://www.stella-lokal.at,NOT FREE,RESTAURANT,INDOOR,NO
+36,Addicted to Rock Bar & Burger,48.2020,16.3626,WIEN,"Getreidemarkt 11, 1060 Wien",https://www.addictedtoburger.at,FREE,BAR,INDOOR,NO
+37,Stadtwirt Wien,48.2072,16.3876,WIEN,"u. Viaduktgasse 45, 1030 Wien",https://stadtwirt.at,NOT FREE,RESTAURANT,INDOOR,NO
+38,Bella Compagnia Erdbergstraße,48.2027,16.3952,WIEN,"Erdbergstraße 21, 1030 Wien",https://bestellen-bellacompagnia.at,NOT FREE,RESTAURANT,INDOOR,NO
+39,The Golden Harp Landstraße,48.2023,16.3962,WIEN,"Erdbergstraße 27, 1030 Wien",https://www.goldenharp1030.at,FREE,BAR,INDOOR,NO
+40,Cafe Dreier,48.1967,16.3925,WIEN,"Juchgasse 23, 1030 Wien",https://www.dreiergasthaus.at,NOT FREE,RESTAURANT,INDOOR,NO
+41,Pizza Quartier,48.2173,16.3765,WIEN,"Karmelitermarkt 96, 1020 Wien",https://pizzaquartier-wien.at,NOT FREE,RESTAURANT,OUTDOOR,NO
+42,Gasthaus Napoleon ,48.2484,16.4494,WIEN,"Kagraner Pl. 33, 1220 Wien",https://www.napoleon.wien/,NOT FREE,RESTAURANT,OUTDOOR,NO
+43,Cafe Leitner,48.2093,16.3155,WIEN,"Koppstraße 95A, 1160 Wien",http://www.cooks-catering.at/,FREE,BAR,OUTDOOR,NO
+44,Travel Shack,48.1931,16.3376,WIEN,"Mariahilfer Gürtel 21/4, 1150 Wien",http://www.travelshackvienna.com/,FREE,BAR,INDOOR,NO
+45,Cafe Lounge Theatro,48.2005,16.3362,WIEN,"Märzstraße 3, 1150 Wien",,FREE,BAR,INDOOR,NO
+46,Restaurant Madre ,48.2021,16.3302,WIEN,"Markgraf-Rüdiger-Straße 12, 1150 Wien",https://pizzamadre.at/,FREE,RESTAURANT,OUTDOOR,NO
+47,Beim Keissler,48.1984,16.2615,WIEN,"Keißlergasse 18/1, 1140 Wien",https://bierkeissler.at/,FREE,BAR,OUTDOOR,NO
+48,Strasser Bräu,48.1834,16.3302,WIEN,"Schönbrunner Str. 253, 1120 Wien",http://www.strasserbraeu.at/,NOT FREE,BAR,OUTDOOR,NO
+49,Fuego,48.1801,16.3721,WIEN,"Jagdgasse 4, 1100 Wien",http://www.fuego.wien/,FREE,BAR,INDOOR,NO
+50,Tinto Restaurant,48.2223,16.3522,WIEN,"Severingasse 5, 1090 Wien",https://www.tintowien.at/,NOT FREE,BAR,INDOOR,NO
+51,Weltcafe,48.2168,16.3572,WIEN,"Schwarzspanierstraße 15, 1090 Wien",http://www.weltcafe.at/,NOT FREE,RESTAURANT,INDOOR,NO
+52,Cafe Francais,48.2160,16.3609,WIEN,"Währinger Str. 6-8, 1090 Wien",http://www.cafefrancais.at/,NOT FREE,RESTAURANT,INDOOR,NO
+53,Neuer Platz Klagenfurt,46.6239,14.3077,KLAGENFURT,"Neuer Pl., 9020 Klagenfurt am Wörthersee",https://www.mein-klagenfurt.at/aktuelle-pressemeldungen/pressemeldungen-juni-2026/fussball-wm-public-viewing-am-neuen-platz-in-klagenfurt-eroeffnet,FREE,PUBLIC SPACE,OUTDOOR,NO
+54,Benediktinerplatz Klagenfurt,46.6229,14.3057,KLAGENFURT,"Benediktinerpl. 1, 9020 Klagenfurt am Wörthersee",,FREE ,PUBLIC SPACE,OUTDOOR,NO
+55,Ferlacher Hauptplatz,46.5266,14.3008,KLAGENFURT,"Hauptpl., 9170 Ferlach",https://www.ferlach.at/system/web/default.aspx?sprache=1,FREE,PUBLIC SPACE,OUTDOOR,NO
