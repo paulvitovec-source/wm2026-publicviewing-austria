@@ -1,5 +1,5 @@
 title: "Public Viewing Locations in Austria – FIFA World Cup 2026"
-description: "This dataset lists 55 public viewing locations across Austria for the FIFA World Cup 2026, including coordinates, access information, and venue attributes. It was compiled manually from official regional and venue sources to support fans in finding suitable locations to watch World Cup matches. The dataset was created in the context of a university course at the University of Vienna under the supervision of Janowicz Krzysztof."
+description: "This dataset lists 168 public viewing locations across Austria for the FIFA World Cup 2026, including coordinates, access information, and venue attributes. It was compiled manually from official regional and venue sources to support fans in finding suitable locations to watch World Cup matches. The dataset was created in the context of a university course at the University of Vienna under the supervision of Janowicz Krzysztof."
 creator:
   - "Alexander Filipsky"
   - "Oliver Poloha"
@@ -18,7 +18,7 @@ attributes:
   - BUNDESLAND: "Austrian federal state (string)"
   - ADDRESS: "Postal address of the venue (string)"
   - LINK: "Reference website or event page (string)"
-  - FREE/FEE: "Indicates if the event is free or requires an entry fee (categorical: FREE / NOT FREE / UNKNOWN)"
+  - FREE/NOT FREE: "Indicates if the event is free or requires an entry fee (categorical: FREE / NOT FREE / UNKNOWN)"
   - LOCATION TYPE: "Type of venue (e.g., bar, public space, restaurant, event venue, other)"
   - INDOOR/OUTDOOR: "Specifies whether the viewing is inside or outside (categorical)"
   - ALL AUSTRIAN GROUPEMATCHES: "Yes/No/Unknown – whether all Austria group matches are shown at this venue"
