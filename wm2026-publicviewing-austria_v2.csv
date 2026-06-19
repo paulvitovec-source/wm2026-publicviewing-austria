@@ -1,0 +1,168 @@
+﻿ID,NAME,LAT,LON,FEDERAL_STATE,ADRESS,LINK,FREE/NOT FREE,LOCATION TYPE,INDOOR/OUTDOOR,ALL AUSTRIAN GROUPEMATCHES
+1,Addicted to Rock Bar & Burger,48.2020,16.3626,WIEN,"Getreidemarkt 11, 1060 Wien",https://www.addictedtoburger.at,FREE,BAR,INDOOR,NO
+2,Annenhof Kino Graz,47.07101917,15.42684145,STEIERMARK,"Annenstraße 29, 8020 Graz",https://cineplexx.at/events/fussball,NOT FREE,EVENT VENUE,INDOOR,NO
+3,Autohaus Pichler,48.28047374,14.36672985,OBEROESTERREICH,"Im Freizeitpark 2, 4221 Steyregg",,FREE,OTHER,OUTDOOR,NO
+4,Azzurra Pizzeria,47.42625441,9.658087742,VORARLBERG,"Kaiser-Franz-Josef-Straße 2, 6890 Lustenau",,NOT FREE,RESTAURANT,,NO
+5,Beim Keissler,48.1984,16.2615,WIEN,"Keißlergasse 18/1, 1140 Wien",https://bierkeissler.at/,FREE,BAR,OUTDOOR,NO
+6,Bella Compagnia Erdbergstraße,48.2027,16.3952,WIEN,"Erdbergstraße 21, 1030 Wien",https://bestellen-bellacompagnia.at,NOT FREE,RESTAURANT,INDOOR,NO
+7,Benediktinerplatz Klagenfurt,46.6229,14.3057,KÄRNTEN,"Benediktinerpl. 1, 9020 Klagenfurt am Wörthersee",,FREE,PUBLIC SPACE,OUTDOOR,NO
+8,Brot & Spiele,47.0733,15.4331,STEIERMARK,"Mariahilferstraße 17, 8020 Graz",https://www.steiermark.com/de/Region-Graz/Urlaub-planen/Veranstaltungen/Public-Viewing-Fussball-WM_ed_87762356#event-detail-calendar-dates,FREE,BAR,INDOOR,YES
+9,Burg Spielberg,47.20071971,14.77845759,STEIERMARK,"Burgstraße 1, 8724 Spielberg",,FREE,OTHER,INDOOR,NO
+10,Cafe Drechsler,48.1988,16.3624,WIEN,"Linke Wienzeile 22, 1060 Wien",http://www.drechsler-wien.at/,FREE,RESTAURANT,INDOOR,NO
+11,Cafe Dreier,48.1967,16.3925,WIEN,"Juchgasse 23, 1030 Wien",https://www.dreiergasthaus.at,NOT FREE,RESTAURANT,INDOOR,NO
+12,Cafe Francais,48.2160,16.3609,WIEN,"Währinger Str. 6-8, 1090 Wien",http://www.cafefrancais.at/,NOT FREE,RESTAURANT,INDOOR,NO
+13,Cafe Konstantin ,48.2095,16.4064,WIEN,"Rotundenallee 15, 1020 Wien",https://www.cafekonstantin.at,NOT FREE,RESTAURANT,OUTDOOR,YES
+14,Cafe Leitner,48.2093,16.3155,WIEN,"Koppstraße 95A, 1160 Wien",http://www.cooks-catering.at/,FREE,BAR,OUTDOOR,NO
+15,Cafe Lounge Theatro,48.2005,16.3362,WIEN,"Märzstraße 3, 1150 Wien",,FREE,BAR,INDOOR,NO
+16,Cafe Sperl,48.2000,16.3611,WIEN,"Gumpendorfer Str. 11, 1060 Wien",https://www.cafesperl.at/,FREE,RESTAURANT,INDOOR,NO
+17,Cafe Votiv,48.2141,16.3590,WIEN,"Reichsratsstraße 17, 1010 Wien",https://cafe-votiv.at,NOT FREE,RESTAURANT,INDOOR,NO
+18,Campingplatz Alpenfreude,46.60667594,13.59042027,KÄRNTEN,"Wertschach 27, 9612 St.Georgen",,FREE,EVENT VENUE,OUTDOOR,NO
+19,Casino Baden,48.01048314,16.23196223,NIEDEROESTERREICH,"Kaiser-Franz-Ring 1, 2500 Baden",,NOT FREE,EVENT VENUE,INDOOR,NO
+20,Casino Bregenz,47.50409893,9.738861455,VORARLBERG,"Platz der Wiener Symphoniker 3, 6900 Bregenz",,FREE,EVENT VENUE,,NO
+21,Casino Graz,47.06933335,15.43745937,STEIERMARK,"Landhausgasse 10, 8010 Graz",,NOT FREE,EVENT VENUE,INDOOR,NO
+22,Casino Innsbruck,47.26230605,11.39638713,TIROL,"Salurner Straße 15, 6020 Innsbruck",,FREE,EVENT VENUE,INDOOR,NO
+23,Casino Kitzbühel,47.4459,12.3905963,TIROL,"Hinterstadt 24, 6370 Kitzbühel",,FREE,EVENT VENUE,INDOOR,NO
+24,Casino Kleinwalsertal,47.35869832,10.18991884,VORARLBERG,"Walserstraße 31, 6991 Riezlern",,NOT FREE,EVENT VENUE,,NO
+25,Casino Linz,48.29860829,14.29046382,OBEROESTERREICH,"Rainerstraße 2-4, 4020 Linz",,NOT FREE,EVENT VENUE,INDOOR,NO
+26,Casino Salzburg,47.81970084,12.99197215,SALZBURG,"Schloss Klessheim, 5071 Wals-Siezenheim",,NOT FREE,EVENT VENUE,INDOOR,NO
+27,Casino Seefeld,47.32939381,11.1888688,TIROL,"Bahnhofstraße 124, 6100 Seefeld/Tirol",,FREE,EVENT VENUE,INDOOR,NO
+28,Casino Velden,46.61497795,14.0435278,KÄRNTEN,"Am Corso 17, 9220 Velden",,NOT FREE,BAR,INDOOR,NO
+29,Casino Zell am See,47.3242739,12.80107329,SALZBURG,"Esplanade 4-6, 5700 Zell am See",,NOT FREE,EVENT VENUE,INDOOR,NO
+30,Charlie P's,48.2168,16.3597,WIEN,"Währinger Straße 3, 1090 Wien",https://www.charlieps.at/en/,FREE,BAR,INDOOR,NO
+31,Citymarketing Seekirchen e.V.,47.90288745,13.14214558,SALZBURG,"Strandbad/ Fussballplatz, 5201 Seekirchen",,FREE,OTHER,INDOOR,NO
+32,Cocktailbar Meeru,48.2025,16.3540,WIEN,"Siebensterngasse 15, 1070 Wien",http://www.meeru.at/,FREE,BAR,OUTDOOR,NO
+33,Collina am Berg,48.2032,16.3554,WIEN,"Spittelberggasse 12, 1070 Wien",https://www.collina.wien/,FREE,RESTAURANT,OUTDOOR,NO
+34,Crossfiled's Australian Pub,48.2044,16.3696,WIEN,"Maysedergasse 5, 1010 Wien",https://www.crossfield.at,NOT FREE,RESTAURANT,OUTDOOR,NO
+35,Dachstein West Arena - ASKÖ Gosau,47.58143847,13.53612551,OBEROESTERREICH,"Steinermühlenweg 11, 4824 Gosau",,FREE,EVENT VENUE,OUTDOOR,NO
+36,Der Pianokeller Reutte,47.4910,10.71753848,TIROL,"Stadtpark Untermarkt, 6600 Reutte",,NOT FREE,EVENT VENUE,INDOOR,NO
+37,dinoilizeko e.U.,48.24334524,14.23499358,OBEROESTERREICH,"Pluskaufstraße 7, 4061 Pasching",,FREE,OTHER,INDOOR,NO
+38,Donauturm Wien,48.24052192,16.41024471,WIEN,"Donauturmstraße 4, 1220 Wien",www.donauturm.at,NOT FREE,EVENT VENUE,OUTDOOR,YES
+39,Dorfplatz St. Lorenzen,46.70166138,12.78333705,KÄRNTEN,"Dorfplatz St. Lorenzen, 9654 St. Lorenzen",,FREE,PUBLIC SPACE,OUTDOOR,NO
+40,Down Under Aussie Pub,48.1946,16.3524,WIEN,"Magdalenenstraße 32, 1060 Wien",https://www.downunder.at,FREE,BAR,INDOOR,YES
+41,Eduard-Wallnöfer-Platz,47.30752442,11.07244518,TIROL,"Eduard-Wallnöfer-Platz, 6410 Telfs",,FREE,PUBLIC SPACE,OUTDOOR,NO
+42,Eventgelände Arneitz,46.57483415,13.93649996,KÄRNTEN,"Seeuferlandesstraße 53, 9583 Faak am See",,FREE,EVENT VENUE,OUTDOOR,NO
+43,Fanfarenzug Bregenz,47.50177479,9.739528955,VORARLBERG,"Bahnhofstraße 47, 6900 Bregenz",,FREE,OTHER,OUTDOOR,NO
+44,Ferlacher Hauptplatz,46.5266,14.3008,KÄRNTEN,"Kirchgasse 5, 9170 Ferlach",https://www.ferlach.at/system/web/default.aspx?sprache=1,FREE,PUBLIC SPACE,OUTDOOR,NO
+45,Feuerwehrhaus FF Wimpassing,47.70128223,16.02510908,NIEDEROESTERREICH,"Dr.Karl Rennergasse 5, 2632 Wimpassing",,FREE,PUBLIC SPACE,OUTDOOR,NO
+46,Flora Café Bar,48.55958148,16.07299994,NIEDEROESTERREICH,"Ausstellungsstraße 4b, 2020 Hollabrunn",,NOT FREE,BAR,INDOOR,NO
+47,Flughafen Wien,48.11836197,16.56644245,NIEDEROESTERREICH,"Flughafen Wien, Terminal 3, F03 1300Wien-Flughafen",,FREE,PUBLIC SPACE,INDOOR,NO
+48,FRANCIS,48.2062,16.3745,WIEN,"Weihburggasse 18-20/27, 1010 Wien",https://francis.at/de/wm26,FREE,RESTAURANT,OUTDOOR,NO
+49,Freiwillige Feuerwehr Gablern,46.59258918,14.66292296,KÄRNTEN,"Gablern 81, 9141 Eberndorf",,FREE,PUBLIC SPACE,OUTDOOR,NO
+50,Freiwillige Feuerwehr Gampern,47.98912372,13.55280988,OBEROESTERREICH,"Hauptstraße 12, 4851 Gampern",,FREE,PUBLIC SPACE,OUTDOOR,NO
+51,Freiwillige Feuerwehr Grünburg,47.97035868,14.26290817,OBEROESTERREICH,"Hauptstrasse 33, 4594 Grünburg",https://www.ff-gruenburg.at/ff/,FREE,PUBLIC SPACE,OUTDOOR,NO
+52,Freiwillige Feuerwehr Jenbach,47.39220915,11.77102397,TIROL,"Tratzbergstraße 11, 6200 Jenbach",,FREE,PUBLIC SPACE,OUTDOOR,NO
+53,Freiwillige Feuerwehr Pernitz,47.89610643,15.95675891,NIEDEROESTERREICH,"Bahnstraße 7, 2763 Pernitz",,FREE,PUBLIC SPACE,OUTDOOR,NO
+54,Freiwillige Feuerwehr Sistrans,47.23630483,11.44320798,TIROL,"Tiglsweg 400, 6073 Sistrans",,FREE,PUBLIC SPACE,OUTDOOR,NO
+55,Fuego,48.1801,16.3721,WIEN,"Jagdgasse 4, 1100 Wien",http://www.fuego.wien/,FREE,BAR,INDOOR,NO
+56,Fußballstadion des FC Red Bull Salzburg,47.81627306,12.99790738,SALZBURG,"Stadionstraße 2/3, 5071 Wals bei Salzburg",,FREE,EVENT VENUE,OUTDOOR,NO
+57,Gasthaus Napoleon ,48.2484,16.4494,WIEN,"Kagraner Pl. 33, 1220 Wien",https://www.napoleon.wien/,NOT FREE,RESTAURANT,OUTDOOR,NO
+58,Gemeindeamt Hüttau,47.41573267,13.30745407,SALZBURG,"Dorfzentrum Hüttau/ Mehrzweckraum, 5511 Hüttau",,FREE,PUBLIC SPACE,OUTDOOR,NO
+59,Goldmarie WirtshausBar,48.19036131,14.1136743,OBEROESTERREICH,"Linzer Straße 28, 4614 Marchtrenk",,NOT FREE,BAR,INDOOR,NO
+60,Gösser Bräu,47.0671,15.4377,STEIERMARK,"Neutorgasse 48, 8010 Graz",https://www.steiermark.com/de/Region-Graz/Urlaub-planen/Veranstaltungen/Public-Viewing-Fussball-WM_ed_87640512,FREE,RESTAURANT,OUTDOOR,NO
+61,Hauptplatz Fürstenfeld,47.05073138,16.0762,STEIERMARK,"Hauptplatz, 8280 Fürstenfeld",,FREE,PUBLIC SPACE,OUTDOOR,NO
+62,Hauptplatz Seiersberg,47.01128718,15.40360088,STEIERMARK,"Hauptplatz 1, 8054 Seiersberg Pirka",,FREE,PUBLIC SPACE,OUTDOOR,NO
+63,Hengistzentrum Hengsberg,46.86860935,15.45003187,STEIERMARK,"Hensgberg 7, 8411 Hengsberg",,FREE,OTHER,INDOOR,NO
+64,Hoher Platz Wolfsberg,46.83973752,14.84461716,KÄRNTEN,"Hoher Platz, 9400 Wolfsberg",,FREE,PUBLIC SPACE,OUTDOOR,NO
+65,Hüttelbeach,48.1982,16.2622,WIEN,"Bahnhofstraße 28, 1140 Wien",http://huettelbeach.at/,FREE,BAR,INDOOR,NO
+66,Jacky's Mühle,47.89690077,16.90486186,BURGENLAND,"Scheunegasse 10, 7122 Gols",,NOT FREE,RESTAURANT,INDOOR,NO
+67,Jozef Linz,48.3000,14.2913,OBEROESTERREICH,"Landstrasse 49, 4020 Linz",https://josef.eu/events/fussball-wm2026/,NOT FREE,RESTAURANT,INDOOR,YES
+68,kühstein.HAUS,48.47678899,15.65252676,NIEDEROESTERREICH,"Kühsteingraben 12-14, 3550 Langenlois",,NOT FREE,RESTAURANT,INDOOR,NO
+69,Kulturhaus Knittelfeld,47.21531743,14.82383176,STEIERMARK,"Gaalerstraße 4, 8720 Knittelfeld",,FREE,EVENT VENUE,INDOOR,NO
+70,Kulturheim Steinabrückl,47.86798442,16.20384195,NIEDEROESTERREICH,"Hauptstraße 9, 2751 Steinabrückl",,FREE,EVENT VENUE,INDOOR,NO
+71,Kulturinitiative Weinsbergerwald,48.36548016,15.11836201,NIEDEROESTERREICH,"Gutenbrunn 24, 3665 Gutenbrunn",,FREE,EVENT VENUE,INDOOR,NO
+72,KUMA / Kultura i krcma - Kultur und Beisl,47.53945034,16.55427994,BURGENLAND,"Parkgasse 3, 7304 Großwarasdorf",,NOT FREE,BAR,INDOOR,NO
+73,Landgut Furtherwirt GMBH,47.54275336,12.44646503,TIROL,"Innsbruckerstraße 62, 6382 Kirchdorf",,NOT FREE,RESTAURANT,INDOOR,NO
+74,last by Schachermayer,48.28973362,14.30559736,OBEROESTERREICH,"Lastenstraße 42, 4020 Linz",,NOT FREE,EVENT VENUE,INDOOR,NO
+75,Laudon 16,48.2135,16.3508,WIEN,"Laudongasse 16, 1080 Wien",http://www.laudon16.at/,NOT FREE,RESTAURANT,OUTDOOR,NO
+76,Linzer Uni Inn,48.33695928,14.31700332,OBEROESTERREICH,"Altenbergerstraße 69, 4040 Linz",,FREE,PUBLIC SPACE,INDOOR,NO
+77,LUSTWERK,48.21784245,15.22303969,NIEDEROESTERREICH,"Kremser Str. 9, 3660 Klein-Pöchlarn",,NOT FREE,RESTAURANT,INDOOR,NO
+78,Marktplatz Dornbirn,47.4136,9.74231,VORARLBERG,"Marktstraße, 6850 Dornbirn",https://www.bodensee-vorarlberg.com/public-viewing-fussball-wm-2026,FREE,PUBLIC SPACE,OUTDOOR,NO
+79,Marktplatz Kobenz,47.24623713,14.84474325,STEIERMARK,"Marktplatz 1, 8723 Kobenz",,FREE,PUBLIC SPACE,OUTDOOR,NO
+80,Mehrzweckplatz Schwaz-Ost,47.3524,11.7149,TIROL,"Johannes-Messner-Weg 12, 6130 Schwaz",https://www.schwaz.at/kalender/event/public-viewing-aut-vs-arg-fussball-weltmeisterschaft-2026-06-22/,FREE,PUBLIC SPACE,OUTDOOR,NO
+81,Merkur Eisstadion,47.04475995,15.45550325,STEIERMARK,"Zoisweg 15, 8041 Graz",,NOT FREE,EVENT VENUE,INDOOR,NO
+82,Mittelschule Kindberg,47.50849422,15.44710642,STEIERMARK,"August Musger Gasse 10, 8650 Kindberg",,FREE,OTHER,INDOOR,NO
+83,Museum Paarhof Buacher,47.14712441,9.777802511,VORARLBERG,"Matin 17, 6707 Bürserberg",,FREE,EVENT VENUE,,NO
+84,Musik Kultur St. Johann,47.52373068,12.42052077,TIROL,"Lederergasse 5, 6380 St. Johann in Tirol",https://www.muku.at/,FREE,EVENT VENUE,INDOOR,YES
+85,Musikpavillon Zams,47.15874162,10.59015108,TIROL,"Sanatoriumstraße 1, 6511 Zams",,NOT FREE,EVENT VENUE,INDOOR,NO
+86,Musistubn Antiesenhofen,48.34230983,13.438687,OBEROESTERREICH,"Maasbach 20, 4980 Antiesenhofen",,NOT FREE,BAR,INDOOR,NO
+87,Neuer Platz Klagenfurt,46.6239,14.3077,KÄRNTEN,"Neuer Platz, 9020 Klagenfurt am Wörthersee",https://www.mein-klagenfurt.at/aktuelle-pressemeldungen/pressemeldungen-juni-2026/fussball-wm-public-viewing-am-neuen-platz-in-klagenfurt-eroeffnet,FREE,PUBLIC SPACE,OUTDOOR,NO
+88,Olympiaworld Innsbruck,47.2579,11.4106,TIROL,"Olympiastraße 11, 6020 Innsbruck",https://www.liferadio.tirol/gratis-wm-public-viewing-in-innsbruck/,FREE,EVENT VENUE,INDOOR,NO
+89,ORF OÖ Arena im Minoritenstadion in Wels,48.15659459,14.02426787,OBEROESTERREICH,"Minoritenplatz/Stadtplatz, 4600 Wels",https://www.wels.at/welsmarketing/events/top-events/public-viewing.html,FREE,EVENT VENUE,OUTDOOR,NO
+90,Ortsfeuerwehr Röns,47.21664496,9.699459669,VORARLBERG,"Magnusplatz 1, 6822 Röns",,FREE,PUBLIC SPACE,,NO
+91,Ortsplatz Ferschnitz,48.09452272,14.98488301,NIEDEROESTERREICH,"Marktplatz 15, 3325 Ferschnitz",,FREE,PUBLIC SPACE,OUTDOOR,NO
+92,Otto-Gruberhalle,47.42879276,12.845481,SALZBURG,"Mittergasse 18, 5760 Saalfelden am Steinernen Meer",,NOT FREE,EVENT VENUE,INDOOR,NO
+93,Palais Freiluft,48.2078,16.3541,WIEN,"Trautsongasse 1b, 1080 Wien",https://www.freiluft.co.at/wmspecial,FREE,EVENT VENUE,OUTDOOR,NO
+94,Park der Volksschule Lieboch,46.97449545,15.33667493,STEIERMARK,"Hitzendorferstrasse 2, 8501 Lieboch",,FREE,PUBLIC SPACE,OUTDOOR,NO
+95,Pink Panther,48.30560658,14.2842291,OBEROESTERREICH,"Altstadt 8, 4020 Linz",https://pink-panther.at/,NOT FREE,BAR,INDOOR,NO
+96,Pizza Quartier,48.2173,16.3765,WIEN,"Karmelitermarkt 96, 1020 Wien",https://pizzaquartier-wien.at,NOT FREE,RESTAURANT,OUTDOOR,NO
+97,Rathaus der Marktgemeinde Trumau,47.99616918,16.34192347,NIEDEROESTERREICH,"Kirchengasse 6, 2521 Trumau",https://www.trumau.at/,FREE,PUBLIC SPACE,INDOOR,NO
+98,Rathaus Gänserndorf,48.34457525,16.76628191,NIEDEROESTERREICH,"Rathausplatz 2, 2230 Gänserndorf",,FREE,PUBLIC SPACE,INDOOR,NO
+99,Rathauspark Deutschlandsberg,46.81488105,15.21407531,STEIERMARK,"Rathauspark - Hauptplatz, 8530 Deutschlandsberg",,FREE,PUBLIC SPACE,OUTDOOR,NO
+100,Restaurant Bar STEINDL,48.1957,16.3425,WIEN,"Stumpergasse 59, 1060 Wien",https://www.restaurant-steindl.at,NOT FREE,RESTAURANT,INDOOR,YES
+101,Restaurant Madre ,48.2021,16.3302,WIEN,"Markgraf-Rüdiger-Straße 12, 1150 Wien",https://pizzamadre.at/,FREE,RESTAURANT,OUTDOOR,NO
+102,Rinderwahn Weihburggasse,48.2073,16.3724,WIEN,"Weihburggasse 3, 1010 Wien",https://www.rinderwahn.at,NOT FREE,RESTAURANT,INDOOR,NO
+103,Rintpark Frohnleiten,47.27339282,15.32734335,STEIERMARK,"Brucker Straße 5, 8130 Frohnleiten ",,FREE,PUBLIC SPACE,OUTDOOR,NO
+104,Rohbau Mehrnbach,48.21329861,13.462638,OBEROESTERREICH,"Renetsham 11, 4941 Mehrnbach",,FREE,OTHER,INDOOR,NO
+105,Salettl im Alten AKH,48.2157,16.3532,WIEN,"Alserstrasse 4/Hof 1, 1090 Wien",https://www.salettl.at/#faq,FREE,RESTAURANT,OUTDOOR,NO
+106,Salim's Cocktails - Cafe - Snacks,48.2021,16.3736,WIEN,"Mahlerstraße 12, 1010 Wien",https://www.salims.at,NOT FREE,BAR,INDOOR,NO
+107,San Pietro San Bar,47.0503,16.4800,STEIERMARK,"St. Peter Hauptstraße 141, 8042 Graz",https://www.facebook.com/events/st-peter-hauptstra%C3%9Fe-141-graz-%C3%B6sterreich/%EF%B8%8F-public-viewing-wm-2026-%EF%B8%8F-%C3%B6sterreich-vs-argentinien-/1273195818186598/,NOT FREE,BAR,INDOOR,NO
+108,Sandburg,48.3103,14.2920,OBEROESTERREICH,"Untere Donaulände 5, 4020 Linz",https://sandburg.publicviewings.at,NOT FREE,EVENT VENUE,OUTDOOR,YES
+109,Saturn Projektentwicklung GmbH,47.02673075,15.4893762,STEIERMARK,"Dr. Auner Straße 19/9, 8074 Raaba-Grambach",,FREE,OTHER,INDOOR,NO
+110,SC Mautern,48.39620733,15.5844105,NIEDEROESTERREICH,"Austrasse 15, 3512 Mautern",,FREE,EVENT VENUE,OUTDOOR,NO
+111,SC Pfaffstätten,48.01210656,16.26608024,NIEDEROESTERREICH,"Lederhasgasse 7, 2511 Pfaffstätten",,FREE,EVENT VENUE,OUTDOOR,NO
+112,SC Theresienfeld,47.86099401,16.25210793,NIEDEROESTERREICH,"Sportplatzgasse 9, 2604 Theresienfeld",,FREE,EVENT VENUE,OUTDOOR,NO
+113,SC Tragwein/Kamig,48.3298814,14.61677334,OBEROESTERREICH,"Pregartener Str. 19, 4284 Tragwein",,FREE,EVENT VENUE,OUTDOOR,NO
+114,Schirm Bar & Café,48.77301086,14.98573707,NIEDEROESTERREICH,"Stadtplatz 26, 3950 Gmünd",,NOT FREE,BAR,INDOOR,NO
+115,Schlosspark Pottendorf,47.90019146,16.39677128,NIEDEROESTERREICH,"Badener Straße 2, 2486 Pottendorf",,FREE,EVENT VENUE,OUTDOOR,NO
+116,SCU Obersdorf/Pillichsdorf,48.37416257,16.52581336,NIEDEROESTERREICH,"Kirschenalle, 39 2120 Obersdorf",,FREE,EVENT VENUE,OUTDOOR,NO
+117,Seebühne Mörbisch,47.7539922,16.69825007,BURGENLAND,"Seebühne 1, 7072 Mörbisch am See",,NOT FREE,EVENT VENUE,OUTDOOR,NO
+118,Shebeen,48.2066,16.3491,WIEN,"Lerchenfelder Str. 45, 1070 Wien",https://www.shebeen.at/,FREE,BAR,OUTDOOR,NO
+119,Single Oak Café | Bar,47.79750599,13.04959223,SALZBURG,"Krotachgasse 7, 5020 Salzburg",,NOT FREE,BAR,INDOOR,NO
+120,Spannrahmen Hard,47.4864,9.6935,VORARLBERG,"Hofsteigstraße 107e, 6971 Hard",https://www.oeticket.com/eventseries/public-viewing-wm-2026-4128691/,NOT FREE,EVENT VENUE,INDOOR,YES
+121,Sparkys,48.2091,16.3711,WIEN,"Goldschmiedgasse 8, 1010 Wien",https://www.sparkys.at,NOT FREE,RESTAURANT,INDOOR,NO
+122,SPG Lechtal,47.38482717,10.55902368,TIROL,"Am Sportplatz 5, 6642 Stanzach",,FREE,EVENT VENUE,OUTDOOR,NO
+123,Sporthotel Krz,47.50039209,16.4994022,BURGENLAND,"Stadiongasse 16, 7350 Oberpullendorf",,NOT FREE,RESTAURANT,INDOOR,NO
+124,Sportplatz Weitersfeld,48.78451136,15.81104944,NIEDEROESTERREICH,"Weitersfeld 376, 2084 Weitersfeld",,FREE,EVENT VENUE,OUTDOOR,NO
+125,SportsBar – Das Eggenberg & LONGIN GRAWE Klub 1909,47.0457,15.4557,STEIERMARK,"Stadionplatz 1, 8041 Graz",https://sksturm.at/n/wm-public-viewing,NOT FREE,BAR,INDOOR,NO
+126,Sportsbar Das Eggenberg,47.04428018,15.45603536,STEIERMARK,"Zoisweg 21, 8010 Graz",,NOT FREE,BAR,INDOOR,NO
+127,Sportunion Sonnberg im Mühlkreis,48.45779831,14.2990327,OBEROESTERREICH,"Sonnberg 94, 4202 Sonnberg",,FREE,EVENT VENUE,OUTDOOR,NO
+128,Sportzentrum Mistelbach,48.56303768,16.57060877,NIEDEROESTERREICH,"Zum Sportzentrum, 2130 Mistelbach",,FREE,EVENT VENUE,OUTDOOR,NO
+129,s'Schneckal,48.01386868,16.29459383,NIEDEROESTERREICH,"Hauptplatz 19, 2514 Traiskirchen",,NOT FREE,BAR,INDOOR,NO
+130,Stadion Hollabrunn,48.55772189,16.07510494,NIEDEROESTERREICH,"Aumühlgasse 8, 2020 Hollabrunn",,FREE,EVENT VENUE,OUTDOOR,NO
+131,Stadtboden,48.2040,16.3713,WIEN,"Krugerstraße 8, 1010 Wien",www.stadtboden.at ,NOT FREE,RESTAURANT,INDOOR,YES
+132,Stadtpark Wilhelmsburg,48.09945524,15.6022752,NIEDEROESTERREICH,"Stadtpark 1, 3150 Wilhelmsburg",,FREE,PUBLIC SPACE,OUTDOOR,NO
+133,Stadtwirt Wien,48.2072,16.3876,WIEN,"u. Viaduktgasse 45, 1030 Wien",https://stadtwirt.at,NOT FREE,RESTAURANT,INDOOR,NO
+134,Stella am Naschmarkt,48.1987,16.3633,WIEN,"Naschmarkt 1, 1060 Wien",https://www.stella-lokal.at,NOT FREE,RESTAURANT,INDOOR,NO
+135,Stieglerhaus,46.92930775,15.25578427,STEIERMARK,"St. Stefan ob Stainz 14, 8511 St. Stefan ob Stainz",https://stieglerhaus.at/,NOT FREE,BAR,INDOOR,NO
+136,Strasser Bräu,48.1834,16.3302,WIEN,"Schönbrunner Str. 253, 1120 Wien",http://www.strasserbraeu.at/,NOT FREE,BAR,OUTDOOR,NO
+137,Sunnockan | Gnas,46.90344139,15.76986619,STEIERMARK,"Wörth bei Gnas, 8342 Gnas",https://www.instagram.com/sunnockan/,NOT FREE,EVENT VENUE,OUTDOOR,NO
+138,SV GW Zell am Pettenfirst,48.07879226,13.600716,OBEROESTERREICH,"Zell 45, 4842 Zell am Pettenfirst",,FREE,EVENT VENUE,OUTDOOR,NO
+139,SV Marsch Neuberg,47.16986225,16.25811307,BURGENLAND,"Kirchenweg 8, 7537 Neuberg ",,FREE,EVENT VENUE,OUTDOOR,NO
+140,Tante Kaethe,48.3163,14.2981,OBEROESTERREICH,"Strasserau 3, 4020 Linz",https://tante-kaethe.at/events/wm-public-viewing-2026/,FREE,RESTAURANT,OUTDOOR,YES
+141,The Golden Harp Landstraße,48.2023,16.3962,WIEN,"Erdbergstraße 27, 1030 Wien",https://www.goldenharp1030.at,FREE,BAR,INDOOR,NO
+142,Tinto Restaurant,48.2223,16.3522,WIEN,"Severingasse 5, 1090 Wien",https://www.tintowien.at/,NOT FREE,BAR,INDOOR,NO
+143,TIROLER VERSICHERUNG,47.2658,11.3970,TIROL,"Wilhelm-Greil-Straße 10, 6020, Innsbruck",https://www.tiroler-versicherung.at/Meine-TIROLER/Mitgliedervorteile2/Mitgliedervorteile/Public-Viewing-Oesterreich-gegen-Argentinien,NOT FREE,OTHER,INDOOR,NO
+144,Toscana Congress Gmunden,47.90977957,13.78842298,OBEROESTERREICH,"Toscana 6, 4810 Gmunden",,NOT FREE,EVENT VENUE,INDOOR,NO
+145,Travel Shack,48.1931,16.3376,WIEN,"Mariahilfer Gürtel 21/4, 1150 Wien",http://www.travelshackvienna.com/,FREE,BAR,INDOOR,NO
+146,TSV Sportheim Sankt Johann im Pongau,47.36042008,13.20268187,SALZBURG,"Sportplatzweg 7, 5600 Sankt Johann im Pongau",,FREE,EVENT VENUE,OUTDOOR,NO
+147,Tutto BERNY,48.30090594,14.2937154,OBEROESTERREICH,"Hessenplatz 2, 4020 Linz",,NOT FREE,BAR,INDOOR,NO
+148,Union Arbing,48.22290123,14.70787931,OBEROESTERREICH,"Schlossberg 57, 4341 Arbing",,FREE,EVENT VENUE,OUTDOOR,NO
+149,Union Bad Kreuzen Sektion Fussball,48.25908381,14.81979324,OBEROESTERREICH,"Neuaigen 14, 4362 Bad Kreuzen",,FREE,EVENT VENUE,OUTDOOR,NO
+150,Union Reichl Brot St. Marien,48.14538813,14.2825381,OBEROESTERREICH,"Sportplatzstraße 4, 4502 St. Marien",,FREE,EVENT VENUE,OUTDOOR,NO
+151,Union Schönau,48.39781582,14.73239154,OBEROESTERREICH,"Almstraße 6, 4274 Schönau",,FREE,EVENT VENUE,OUTDOOR,NO
+152,Union Sport Streicher Seewalchen,47.95461165,13.58507978,OBEROESTERREICH,"Rathausplatz 1, 4863 Seewalchen am Attersee",,FREE,EVENT VENUE,OUTDOOR,NO
+153,USV Atzenbrugg/Heiligeneich,48.29413492,15.88916776,NIEDEROESTERREICH,"Sportplatz 2, 3452 Heiligeneich",,FREE,EVENT VENUE,OUTDOOR,NO
+154,Verein Dr. Franz Rehrl Studentenheim,47.7943306,13.0515881,SALZBURG,"Petersbrunnstraße 14 , 5020 Salzburg",,FREE,OTHER,INDOOR,NO
+155,Verein Stoderspatzerl,47.44281575,13.90349467,STEIERMARK,"Kurpark Gröbming, 8962 Gröbming",,FREE,OTHER,OUTDOOR,NO
+156,VIENNA Lounge,48.11856252,16.56618496,NIEDEROESTERREICH,"Flughafen Wien-Schwechat ,1300 Wien",,NOT FREE,BAR,INDOOR,NO
+157,Viva la Napoli,47.73758335,16.39852806,BURGENLAND,"Gustav Degen Gasse 9, 7210 Mattersburg",,NOT FREE,RESTAURANT,INDOOR,NO
+158,Volksheim Ziersdorf,48.52935737,15.92316547,NIEDEROESTERREICH,"Hornerstr. 42, 3710 Ziersdorf",,FREE,EVENT VENUE,INDOOR,NO
+159,Vorstadtliebe,48.2254,16.4526,WIEN,"Stadlauer Str. 26, 1220 Wien",https://vorstadtliebe.at/,FREE,RESTAURANT,OUTDOOR,NO
+160,Weber Grillcenter Graz,47.0069,15.4112,STEIERMARK,"Rudolf-Kratochwill-Straße 3, 8054 Seiersberg",https://www.steiermark.com/de/Region-Graz/Urlaub-planen/Veranstaltungen/Public-Viewing-Fussball-WM_ed_87762356#event-detail-calendar-dates,NOT FREE,RESTAURANT,INDOOR,NO
+161,Weltcafe,48.2168,16.3572,WIEN,"Schwarzspanierstraße 15, 1090 Wien",http://www.weltcafe.at/,NOT FREE,RESTAURANT,INDOOR,NO
+162,Westfield Shopping City Süd,48.10842358,16.31742705,NIEDEROESTERREICH,"Vösendorfer Südring 428B, 2334 Vösendorf",https://www.westfield.com/de/austria/scs,FREE,EVENT VENUE,INDOOR,NO
+163,Wirt in Puchberg,48.22365148,14.72065974,OBEROESTERREICH,"Puchberg 10, 4341 Arbing",,NOT FREE,RESTAURANT,INDOOR,NO
+164,wohlbekannt am Platzl,47.2835047,11.41310581,TIROL,"Hauptplatz 5, 6020 Innsbruck/Mühlau",https://www.wohlbekannt.at/veranstaltungen/,NOT FREE,RESTAURANT,INDOOR,NO
+165,Woodstock der Blasmusik,48.3073752,13.42988996,OBEROESTERREICH,"Kammer 5, 4974 Ort im Innkreis",https://www.woodstockderblasmusik.at/,NOT FREE,EVENT VENUE,INDOOR,NO
+166,Zentrum Bar,47.33412368,9.644428996,VORARLBERG,"Sankt Ulrichstraße 4, 6840 Götzis",,FREE,BAR,,NO
+167,Zwettler Freizeitmeile,48.60652998,15.16424334,NIEDEROESTERREICH,"Schwaiger Sisters-Weg 2, 3910 Zwettl-Niederösterreich",,FREE,EVENT VENUE,OUTDOOR,NO
