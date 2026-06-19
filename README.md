@@ -1,6 +1,6 @@
 # Public Viewing Locations in Austria – FIFA World Cup 2026
 
-This dataset lists 55 public viewing locations across Austria for the FIFA World Cup 2026.  
+This dataset lists 167 public viewing locations across Austria for the FIFA World Cup 2026.  
 Created within the University of Vienna course under the supervision of Krzysztof Janowicz.
 
 ## Files
