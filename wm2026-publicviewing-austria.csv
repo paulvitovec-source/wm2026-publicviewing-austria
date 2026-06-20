@@ -2,7 +2,7 @@
 1,Addicted to Rock Bar & Burger,48.2020,16.3626,WIEN,"Getreidemarkt 11, 1060 Wien",https://www.addictedtoburger.at,FREE,BAR,INDOOR,NO
 2,Annenhof Kino Graz,47.07101917,15.42684145,STEIERMARK,"Annenstraße 29, 8020 Graz",https://cineplexx.at/events/fussball,NOT FREE,EVENT VENUE,INDOOR,NO
 3,Autohaus Pichler,48.28047374,14.36672985,OBEROESTERREICH,"Im Freizeitpark 2, 4221 Steyregg",,FREE,OTHER,OUTDOOR,NO
-4,Azzurra Pizzeria,47.42625441,9.658087742,VORARLBERG,"Kaiser-Franz-Josef-Straße 2, 6890 Lustenau",,NOT FREE,RESTAURANT,,NO
+4,Azzurra Pizzeria,47.42625441,9.658087742,VORARLBERG,"Kaiser-Franz-Josef-Straße 2, 6890 Lustenau",,NOT FREE,RESTAURANT,INDOOR,NO
 5,Beim Keissler,48.1984,16.2615,WIEN,"Keißlergasse 18/1, 1140 Wien",https://bierkeissler.at/,FREE,BAR,OUTDOOR,NO
 6,Bella Compagnia Erdbergstraße,48.2027,16.3952,WIEN,"Erdbergstraße 21, 1030 Wien",https://bestellen-bellacompagnia.at,NOT FREE,RESTAURANT,INDOOR,NO
 7,Benediktinerplatz Klagenfurt,46.6229,14.3057,KÄRNTEN,"Benediktinerpl. 1, 9020 Klagenfurt am Wörthersee",,FREE,PUBLIC SPACE,OUTDOOR,NO
@@ -18,11 +18,11 @@
 17,Cafe Votiv,48.2141,16.3590,WIEN,"Reichsratsstraße 17, 1010 Wien",https://cafe-votiv.at,NOT FREE,RESTAURANT,INDOOR,NO
 18,Campingplatz Alpenfreude,46.60667594,13.59042027,KÄRNTEN,"Wertschach 27, 9612 St.Georgen",,FREE,EVENT VENUE,OUTDOOR,NO
 19,Casino Baden,48.01048314,16.23196223,NIEDEROESTERREICH,"Kaiser-Franz-Ring 1, 2500 Baden",,NOT FREE,EVENT VENUE,INDOOR,NO
-20,Casino Bregenz,47.50409893,9.738861455,VORARLBERG,"Platz der Wiener Symphoniker 3, 6900 Bregenz",,FREE,EVENT VENUE,,NO
+20,Casino Bregenz,47.50409893,9.738861455,VORARLBERG,"Platz der Wiener Symphoniker 3, 6900 Bregenz",,FREE,EVENT VENUE,INDOOR,NO
 21,Casino Graz,47.06933335,15.43745937,STEIERMARK,"Landhausgasse 10, 8010 Graz",,NOT FREE,EVENT VENUE,INDOOR,NO
 22,Casino Innsbruck,47.26230605,11.39638713,TIROL,"Salurner Straße 15, 6020 Innsbruck",,FREE,EVENT VENUE,INDOOR,NO
 23,Casino Kitzbühel,47.4459,12.3905963,TIROL,"Hinterstadt 24, 6370 Kitzbühel",,FREE,EVENT VENUE,INDOOR,NO
-24,Casino Kleinwalsertal,47.35869832,10.18991884,VORARLBERG,"Walserstraße 31, 6991 Riezlern",,NOT FREE,EVENT VENUE,,NO
+24,Casino Kleinwalsertal,47.35869832,10.18991884,VORARLBERG,"Walserstraße 31, 6991 Riezlern",,NOT FREE,EVENT VENUE,INDOOR,NO
 25,Casino Linz,48.29860829,14.29046382,OBEROESTERREICH,"Rainerstraße 2-4, 4020 Linz",,NOT FREE,EVENT VENUE,INDOOR,NO
 26,Casino Salzburg,47.81970084,12.99197215,SALZBURG,"Schloss Klessheim, 5071 Wals-Siezenheim",,NOT FREE,EVENT VENUE,INDOOR,NO
 27,Casino Seefeld,47.32939381,11.1888688,TIROL,"Bahnhofstraße 124, 6100 Seefeld/Tirol",,FREE,EVENT VENUE,INDOOR,NO
@@ -81,14 +81,14 @@
 80,Mehrzweckplatz Schwaz-Ost,47.3524,11.7149,TIROL,"Johannes-Messner-Weg 12, 6130 Schwaz",https://www.schwaz.at/kalender/event/public-viewing-aut-vs-arg-fussball-weltmeisterschaft-2026-06-22/,FREE,PUBLIC SPACE,OUTDOOR,NO
 81,Merkur Eisstadion,47.04475995,15.45550325,STEIERMARK,"Zoisweg 15, 8041 Graz",,NOT FREE,EVENT VENUE,INDOOR,NO
 82,Mittelschule Kindberg,47.50849422,15.44710642,STEIERMARK,"August Musger Gasse 10, 8650 Kindberg",,FREE,OTHER,INDOOR,NO
-83,Museum Paarhof Buacher,47.14712441,9.777802511,VORARLBERG,"Matin 17, 6707 Bürserberg",,FREE,EVENT VENUE,,NO
+83,Museum Paarhof Buacher,47.14712441,9.777802511,VORARLBERG,"Matin 17, 6707 Bürserberg",,FREE,EVENT VENUE,INDOOR,NO
 84,Musik Kultur St. Johann,47.52373068,12.42052077,TIROL,"Lederergasse 5, 6380 St. Johann in Tirol",https://www.muku.at/,FREE,EVENT VENUE,INDOOR,YES
 85,Musikpavillon Zams,47.15874162,10.59015108,TIROL,"Sanatoriumstraße 1, 6511 Zams",,NOT FREE,EVENT VENUE,INDOOR,NO
 86,Musistubn Antiesenhofen,48.34230983,13.438687,OBEROESTERREICH,"Maasbach 20, 4980 Antiesenhofen",,NOT FREE,BAR,INDOOR,NO
 87,Neuer Platz Klagenfurt,46.6239,14.3077,KÄRNTEN,"Neuer Platz, 9020 Klagenfurt am Wörthersee",https://www.mein-klagenfurt.at/aktuelle-pressemeldungen/pressemeldungen-juni-2026/fussball-wm-public-viewing-am-neuen-platz-in-klagenfurt-eroeffnet,FREE,PUBLIC SPACE,OUTDOOR,NO
 88,Olympiaworld Innsbruck,47.2579,11.4106,TIROL,"Olympiastraße 11, 6020 Innsbruck",https://www.liferadio.tirol/gratis-wm-public-viewing-in-innsbruck/,FREE,EVENT VENUE,INDOOR,NO
 89,ORF OÖ Arena im Minoritenstadion in Wels,48.15659459,14.02426787,OBEROESTERREICH,"Minoritenplatz/Stadtplatz, 4600 Wels",https://www.wels.at/welsmarketing/events/top-events/public-viewing.html,FREE,EVENT VENUE,OUTDOOR,NO
-90,Ortsfeuerwehr Röns,47.21664496,9.699459669,VORARLBERG,"Magnusplatz 1, 6822 Röns",,FREE,PUBLIC SPACE,,NO
+90,Ortsfeuerwehr Röns,47.21664496,9.699459669,VORARLBERG,"Magnusplatz 1, 6822 Röns",,FREE,PUBLIC SPACE,OUTDOOR,NO
 91,Ortsplatz Ferschnitz,48.09452272,14.98488301,NIEDEROESTERREICH,"Marktplatz 15, 3325 Ferschnitz",,FREE,PUBLIC SPACE,OUTDOOR,NO
 92,Otto-Gruberhalle,47.42879276,12.845481,SALZBURG,"Mittergasse 18, 5760 Saalfelden am Steinernen Meer",,NOT FREE,EVENT VENUE,INDOOR,NO
 93,Palais Freiluft,48.2078,16.3541,WIEN,"Trautsongasse 1b, 1080 Wien",https://www.freiluft.co.at/wmspecial,FREE,EVENT VENUE,OUTDOOR,NO
@@ -164,5 +164,5 @@
 163,Wirt in Puchberg,48.22365148,14.72065974,OBEROESTERREICH,"Puchberg 10, 4341 Arbing",,NOT FREE,RESTAURANT,INDOOR,NO
 164,wohlbekannt am Platzl,47.2835047,11.41310581,TIROL,"Hauptplatz 5, 6020 Innsbruck/Mühlau",https://www.wohlbekannt.at/veranstaltungen/,NOT FREE,RESTAURANT,INDOOR,NO
 165,Woodstock der Blasmusik,48.3073752,13.42988996,OBEROESTERREICH,"Kammer 5, 4974 Ort im Innkreis",https://www.woodstockderblasmusik.at/,NOT FREE,EVENT VENUE,INDOOR,NO
-166,Zentrum Bar,47.33412368,9.644428996,VORARLBERG,"Sankt Ulrichstraße 4, 6840 Götzis",,FREE,BAR,,NO
+166,Zentrum Bar,47.33412368,9.644428996,VORARLBERG,"Sankt Ulrichstraße 4, 6840 Götzis",,FREE,BAR,INDOOR,NO
 167,Zwettler Freizeitmeile,48.60652998,15.16424334,NIEDEROESTERREICH,"Schwaiger Sisters-Weg 2, 3910 Zwettl-Niederösterreich",,FREE,EVENT VENUE,OUTDOOR,NO
